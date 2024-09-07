@@ -28,9 +28,9 @@ para ofrecer respuestas rápidas y realizar tareas simples
 mejorando la experiencia del usuario en la plataforma.
 
 ---------
-### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/51943058441" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5212411233838" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+### `☘️Necesitas ayuda sobre el Bot?, Contactanos y te ayudaremos☘️`
+<a href="http://wa.me/51943058441" target="blank"><img src="https://img.shields.io/badge/LC-Novikov_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/521720415374" target="blank"><img src="https://img.shields.io/badge/Muhammed-bkmål_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
