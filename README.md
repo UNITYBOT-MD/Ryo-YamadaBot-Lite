@@ -34,7 +34,7 @@ mejorando la experiencia del usuario en la plataforma.
 
 1. Haz un fork del repositorio
     <br>
-<a href='https://github.com/davidprospero123/REM-CHAM/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 # 𝙂𝙪𝙞𝙖 𝙥𝙖𝙧𝙖 𝙡𝙖 𝙞𝙣𝙨𝙩𝙖𝙡𝙖𝙘𝙞𝙤𝙣 𝙙𝙚 𝙧𝙚𝙢 𝙚𝙣 𝙩𝙚𝙧𝙢𝙪𝙭
 
@@ -87,7 +87,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/davidprospero123/REM-CHAM.git && cd REM-CHAM
+git clone https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite.git && cd Ryō YamadaBot-MD
 ```
 
 ```bash
@@ -175,7 +175,7 @@ Ahora ve a CodeSandbox y selecciona "Crear Sandbox".
 
 Selecciona la opción "Importar Proyecto" y elige la opción de "GitHub".
 
-Pega la URL de tu repositorio forked de REM-CHAM y haz clic en importar.
+Pega la URL de tu repositorio forked de Ryō YamadaBot-MD y haz clic en importar.
 
 2. Mira el siguiente tutorial en video para obtener asistencia.
     <br>
@@ -184,7 +184,7 @@ Pega la URL de tu repositorio forked de REM-CHAM y haz clic en importar.
 
 
  ## <img src="https://telegra.ph/file/f0c5100afea52569b7efd.gif" alt="Características" width="42" height="42"> Características
-> REM-BOT
+> Ryō YamadaBot-MD
 - [x] Interacción con voz y texto
 - [x] Configuración de grupo
 - [x] antidelete, antilink, antispam, etc
@@ -197,7 +197,7 @@ Pega la URL de tu repositorio forked de REM-CHAM y haz clic en importar.
 - [x] Descarga de música y video de YT
 - [x] ChatGpt
 - [x] Gemini
-- [ ] Muy pronto lenguaje Ingles 
+- [x] idioma (español, portugués, inglés, etc) 
  
 ## 🤩 PAGINA WEB PRESIONA LA IMAGEN
 
@@ -207,7 +207,7 @@ Pega la URL de tu repositorio forked de REM-CHAM y haz clic en importar.
   </a>
 </div>
 
-- Dale una estrella ⭐ al repositorio si te gusta REM-CHAM.
+- Dale una estrella ⭐ al repositorio si te gusta Ryō YamadaBot-MD.
 
 ## Agradecimientos y Créditos
 
@@ -218,9 +218,9 @@ Pega la URL de tu repositorio forked de REM-CHAM y haz clic en importar.
 <div><button id="boton" type="button">Base - Por FG98F</button></div>
 <a href="https://github.com/FG98F"><img src="https://github.com/FG98F.png" width="150" height="150" alt="adiwajshing"/></a>
 
-<a href="https://github.com/davidprospero123"><img src="https://i.imgur.com/ejbURho.png" alt="𝙶̷𝚊̷𝚋̷𝚛̷𝚒̷𝚎̷𝚕̷ 𝙲̷𝚞̷𝚛̷𝚒̷"/></a>
+<a href="https://github.com/UNITYBOT-MD"><img src="https://i.imgur.com/ejbURho.png" alt="M̷u̷h̷a̷m̷m̷e̷d̷ b̷k̷m̷å̷l̷ D̷ø̷d̷"/></a>
 
-`© 𝚁̷𝙴̷𝙼̷-𝙱̷𝙾̷𝚃̷  - By 𝙶̷𝚊̷𝚋̷𝚛̷𝚒̷𝚎̷𝚕̷ 𝙲̷𝚞̷𝚛̷𝚒̷`
+`© R̷y̷o̷ Y̷a̷m̷a̷d̷a̷B̷o̷t̷-̷M̷D̷ - By L̷c̷ N̷o̷v̷i̷k̷o̷v̷`
 
 
 
