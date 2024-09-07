@@ -183,7 +183,7 @@ Pega la URL de tu repositorio forked de Ryō YamadaBot-MD y haz clic en importar
 
 
 
- ## <img src="https://telegra.ph/file/5c93d675ca84be18c3aff.gif" alt="Características" width="42" height="42"> Características
+ ## <img src="https://telegra.ph/file/5c93d675ca84be18c3aff.mp4" alt="Características" width="42" height="42"> Características
 > Ryō YamadaBot-MD
 - [x] Interacción con voz y texto
 - [x] Configuración de grupo
