@@ -1,7 +1,7 @@
 <div align="center">
     <p>  
         <a href="https://www.youtube.com/watch?v=MoiO-2NorRA&t=3s">
-            <img alt="Ryō YamadaBot-Lite" height="300" src="https://telegra.ph/file/20de2569329583088aeee.gif">
+            <img alt="Ryō YamadaBot-Lite" height="300" src="https://telegra.ph/file/21b5a82b5b17dd9cc4c7a.jpg">
             <h1>Ryō YamadaBot-Lite</h1>
         </a>
     </p>
@@ -38,7 +38,7 @@ mejorando la experiencia del usuario en la plataforma.
 
 # 𝙂𝙪𝙞𝙖 𝙥𝙖𝙧𝙖 𝙡𝙖 𝙞𝙣𝙨𝙩𝙖𝙡𝙖𝙘𝙞𝙤𝙣 𝙙𝙚 𝙧𝙚𝙢 𝙚𝙣 𝙩𝙚𝙧𝙢𝙪𝙭
 
-## <img src="https://telegra.ph/file/f0c5100afea52569b7efd.gif" alt="Herramientas" width="35" height="35"> Herramientas
+## <img src="https://telegra.ph/file/bff0aba138afb9db0654b.jpg" alt="Herramientas" width="35" height="35"> Herramientas
 
 ```bash
 > Termux
@@ -203,7 +203,7 @@ Pega la URL de tu repositorio forked de Ryō YamadaBot-MD y haz clic en importar
 
 <div align="center">
   <a href="https://rem-cham.replit.app">
-    <img src="https://telegra.ph/file/068ad375f7c4b256bd786.jpg" alt="Página Web de Soporte" width="400">
+    <img src="https://telegra.ph/file/86172f4d60fe75ee7e674.jpg" alt="Página Web de Soporte" width="400">
   </a>
 </div>
 
