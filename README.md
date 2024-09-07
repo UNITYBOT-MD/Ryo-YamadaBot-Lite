@@ -203,7 +203,7 @@ Pega la URL de tu repositorio forked de Ryō YamadaBot-MD y haz clic en importar
 
 <div align="center">
   <a href="https://rem-cham.replit.app">
-    <img src="https://telegra.ph/file/86172f4d60fe75ee7e674.jpg" alt="Página Web de Soporte" width="400">
+    <img src="https://telegra.ph/file/21b5a82b5b17dd9cc4c7a.jpg" alt="Página Web de Soporte" width="400">
   </a>
 </div>
 
