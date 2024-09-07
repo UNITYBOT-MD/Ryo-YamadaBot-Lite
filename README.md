@@ -1,7 +1,7 @@
 <div align="center">
     <p>  
         <a href="https://www.youtube.com/watch?v=MoiO-2NorRA&t=3s">
-            <img alt="Ryō YamadaBot-Lite" height="300" src="https://telegra.ph/file/21b5a82b5b17dd9cc4c7a.jpg">
+            <img alt="Ryō YamadaBot-Lite" height="300" src="https://telegra.ph/file/bff0aba138afb9db0654b.jpg">
             <h1>Ryō YamadaBot-Lite</h1>
         </a>
     </p>
