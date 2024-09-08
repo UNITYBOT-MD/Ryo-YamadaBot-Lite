@@ -38,7 +38,7 @@ Ryō YamadaBot-Lite- Un bot sencillo de WhatsApp con pocos comandos y diseñado 
 
 ### `☘️GRUPO DE RYŌ YAMADABOT-LITE☘️`
 
-<a href= "https://chat.whatsapp.com/Ke8aOCGkXIm6VHOB7FAKNF" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_RYŌ_YAMADA_BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href= "https://chat.whatsapp.com/EyNaSsB6ADH9B0xPW0sQ7x" target="blank"><img src="https://img.shields.io/badge/COMMUNITY_MDLG-Team_Offcial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### `☘️GRUPO DE RYŌ YAMADABOT-LITE☘️`
