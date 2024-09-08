@@ -27,7 +27,7 @@
 ####  
 Ryō YamadaBot-Lite- Un bot sencillo de WhatsApp con pocos comandos y diseñado para ofrecerte un servicio básico.
 
-*NOTA:*El bot está en pleno mantenimiento por lo que aun no esta disponible. 
+*NOTA:* El bot está en pleno mantenimiento por lo que aun no esta disponible. 
 > atte:Muhammed bkmål Død 
 ---------
 ### `☘️Necesitas ayuda sobre el Bot?, Contactanos y te ayudaremos☘️`
