@@ -139,6 +139,18 @@ npm start
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - Ryō YamadaBot-Lite**</summary><img src="https://telegra.ph/file/7ddd30dd7d77354fb01fe.jpg"></details>
 ---------
 
+### ⭐ Activa En Cloud Starlights
+
+<a href="https://dash.starlights.uk"><img src="https://i.ibb.co/37T9Nnk/file.jpg" width="300" height="300" alt="Cloud Starlights"/></a>
+
+- Dash: [dash.starlights.uk](https://dash.starlights.uk)
+- Panel: [cloud.starlights.uk](https://cloud.starlights.uk/)
+- Canal de WhatsApp: [【 ✯ Starlights Team - Oficial Chanel ✰ 】](https://whatsapp.com/channel/0029VaBfsIwGk1FyaqFcK91S)
+
+[![Click Aquí](https://img.shields.io/badge/Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5218261000681)
+
+--------
+
  ## <img src="https://telegra.ph/file/bff0aba138afb9db0654b.jpg" alt="Características" width="42" height="42"> Características
 > Ryō YamadaBot-MD
 - [x] Interacción con voz y texto
