@@ -30,14 +30,14 @@ mejorando la experiencia del usuario en la plataforma.
 ---------
 ### `☘️Necesitas ayuda sobre el Bot?, Contactanos y te ayudaremos☘️`
 <a href="http://wa.me/51943058441" target="blank"><img src="https://img.shields.io/badge/LC-Novikov_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/521720415374" target="blank"><img src="https://img.shields.io/badge/Muhammed-bkmål_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/52720415374" target="blank"><img src="https://img.shields.io/badge/Muhammed-bkmål_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-### `⛄GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
+### `🌿GRUPO DE RYŌ YAMADABOT-LITE🌿`
 
-<a href= "https://chat.whatsapp.com/G5ugch9uSkfE42w1POPc6h" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href= "https://chat.whatsapp.com/Ke8aOCGkXIm6VHOB7FAKNF" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_RYŌ_YAMADA_BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
+> EN EL GRUPO NO HAY BOT ACTIVO (POR EL MOMENTO). Se te agradecería si añades un Bot temporal mientras se revive a nuestro Bot. 
 
 
 #### CONFIGURACIÓN
