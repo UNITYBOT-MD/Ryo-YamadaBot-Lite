@@ -1,5 +1,7 @@
 > <b> Version actual del bot: 1.9.5</b>
 
+xd
+
 <div align="center">
     <p>  
         <a href="https://www.youtube.com/watch?v=MoiO-2NorRA&t=3s">
