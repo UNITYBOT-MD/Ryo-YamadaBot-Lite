@@ -17,7 +17,7 @@
         <a href="https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite/stargazers/"><img title="Estrellas" src="https://img.shields.io/github/stars/UNITYBOT-MD/Ryo-YamadaBot-Lite?color=red&style=flat-square"></a>
     </p>
     <p>
-        <a href="#"><img title="Avanzado WhatsApp Bot" src="https://img.shields.io/badge/-Avanzado%20WhatsApp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+        <a href="#"><img title="Avanzado WhatsApp Bot" src="https://img.shields.io/badge/-Sencillo%20WhatsApp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p>
         <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"></a>
