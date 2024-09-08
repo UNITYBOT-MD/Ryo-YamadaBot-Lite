@@ -153,7 +153,7 @@ npm start
 - [x] Gemini
 - [x] idioma (español, portugués, inglés, etc) 
  
-## 🤩 PAGINA WEB PRESIONA LA IMAGEN
+## 🎸 PAGINA WEB PRESIONA LA IMAGEN
 
 <div align="center">
   <a href="https://linktr.ee/ryoyamadabot">
