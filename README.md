@@ -132,7 +132,7 @@ npm start
 - **Contacto:** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
 - **Contacto:** [`elrebelde21`](https://facebook.com/elrebelde21)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - LoliBot-MD**</summary><img src="https://telegra.ph/file/7ddd30dd7d77354fb01fe.jpg"></details>
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - Ryō YamadaBot-Lite**</summary><img src="https://telegra.ph/file/7ddd30dd7d77354fb01fe.jpg"></details>
 ---------
 
  ## <img src="https://telegra.ph/file/bff0aba138afb9db0654b.jpg" alt="Características" width="42" height="42"> Características
