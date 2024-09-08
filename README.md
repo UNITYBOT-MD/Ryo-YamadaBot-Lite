@@ -228,7 +228,7 @@ Pega la URL de tu repositorio forked de Ryō YamadaBot-MD y haz clic en importar
 <div><button id="boton" type="button">Base - Por FG98F</button></div>
 <a href="https://github.com/FG98F"><img src="https://github.com/FG98F.png" width="150" height="150" alt="adiwajshing"/></a>
 
-<a href="https://github.com/UNITYBOT-MD"><img src="https://imgur.com/a/tEtnfyI.png" alt="M̷u̷h̷a̷m̷m̷e̷d̷ b̷k̷m̷å̷l̷ D̷ø̷d̷"/></a>
+<a href="https://github.com/UNITYBOT-MD"><img src="https://i.imgur.com/ejbURho.png" alt="M̷u̷h̷a̷m̷m̷e̷d̷ b̷k̷m̷å̷l̷ D̷ø̷d̷"/></a>
 
 `© R̷y̷o̷ Y̷a̷m̷a̷d̷a̷B̷o̷t̷-̷M̷D̷ - By L̷c̷ N̷o̷v̷i̷k̷o̷v̷`
 
