@@ -130,7 +130,7 @@ npm start
 - **Comunidad - WhatsApp** [`Aquí`](https://chat.whatsapp.com/HR3OLhsuZPqCMImzuHcuON)
 - **Support:** [`Bot exclusivo`](https://wa.me/message/FETBF7YBO37CG1)
 - **Contacto:** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
-- **Contacto:** [`elrebelde21`](https://facebook.com/elrebelde21)
+- **Contacto:** [`Muhammed bkmål Død`](https://facebook.com/elrebelde21)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - Ryō YamadaBot-Lite**</summary><img src="https://telegra.ph/file/7ddd30dd7d77354fb01fe.jpg"></details>
 ---------
