@@ -212,7 +212,7 @@ Pega la URL de tu repositorio forked de Ryō YamadaBot-MD y haz clic en importar
 ## 🤩 PAGINA WEB PRESIONA LA IMAGEN
 
 <div align="center">
-  <a href="https://rem-cham.replit.app">
+  <a href="https://linktr.ee/ryoyamadabot">
     <img src="https://telegra.ph/file/21b5a82b5b17dd9cc4c7a.jpg" alt="Página Web de Soporte" width="400">
   </a>
 </div>
