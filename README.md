@@ -1,4 +1,4 @@
-> <b> 🚀Version actual del bot: 2.0</b>
+> <b> 🚀Version actual del bot: 2.0 (beta) </b>
 
 <div align="center">
     <p>  
