@@ -25,10 +25,10 @@
 
 
 ####  
-Ryō YamadaBot-Lite- Un sencillo bot de WhatsApp en español, diseñado 
-para ofrecer respuestas rápidas y realizar tareas simples
-mejorando la experiencia del usuario en la plataforma.
+Ryō YamadaBot-Lite- Un bot sencillo de WhatsApp con pocos comandos y diseñado para ofrecerte un servicio básico.
 
+*NOTA:*El bot está en pleno mantenimiento por lo que aun no esta disponible. 
+> atte:Muhammed bkmål Død 
 ---------
 ### `☘️Necesitas ayuda sobre el Bot?, Contactanos y te ayudaremos☘️`
 <a href="http://wa.me/51943058441" target="blank"><img src="https://img.shields.io/badge/LC-Novikov_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
