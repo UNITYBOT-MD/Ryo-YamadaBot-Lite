@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido/a+al+Repositorio;Ryō_Yamada+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+LC+Novikov;UWUW;🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&lines=Bienvenido/a+al+Repositorio;Ryō_Yamada+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+LC+Novikov;UWUW;🔥)](https://git.io/typing-svg)
 
 > <b> 🚀Version actual del bot: 2.0 (beta) </b>
 
