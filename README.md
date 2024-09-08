@@ -10,7 +10,7 @@
         </a>
     </p>
     <p>
-        <a href="https://github.com/UNITYBOT-MD"><img title="Autor" src="https://img.shields.io/badge/autor-/DrAkO-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/UNITYBOT-MD"><img title="Autor" src="https://img.shields.io/badge/autor-DrAkO-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/UNITY-BOT-MD"><img title="Seguidores" src="https://img.shields.io/github/followers/UNITYBOT-MD?color=blue&style=flat-square"></a>
