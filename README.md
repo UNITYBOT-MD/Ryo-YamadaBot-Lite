@@ -1,3 +1,7 @@
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1009&color=0000FF&lines=Bienvenido+al+Repositorio+oficial;Ryō+-+Yamada+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+LC+Novikov;Danos+una+estrellita+UWUW;🥵)](https://git.io/typing-svg)
 
 > <b> 🚀Version actual del bot: 2.0 (beta) </b>
