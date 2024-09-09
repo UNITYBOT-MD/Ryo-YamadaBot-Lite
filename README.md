@@ -187,26 +187,11 @@ npm start
 <div><button id="boton" type="button">Baileys - Por WhiskeySockets y adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
 
-<div><button id="boton" type="button">Base - Por Muhammed bkmål Død</button></div>
+<div><button id="boton" type="button">CREADOR - Muhammed bkmål Død</button></div>
 <a href="https://github.com/UNITYBOT-MD"><img src="https://github.com/UNITYBOT-MD.png" width="150" height="150" alt="adiwajshing"/></a>
 
 <a href="https://github.com/UNITYBOT-MD"><img src="https://i.imgur.com/ejbURho.png" alt="M̷u̷h̷a̷m̷m̷e̷d̷ b̷k̷m̷å̷l̷ D̷ø̷d̷"/></a>
 
 `© R̷y̷o̷ Y̷a̷m̷a̷d̷a̷B̷o̷t̷-̷M̷D̷ - By L̷c̷ N̷o̷v̷i̷k̷o̷v̷`
 
-
-
-
-
-
-<h2 align="center">  Recordatorio
-</h2>
-   
-## 
-- Este bot no está hecho por `WhatsApp Inc.` Así que el mal uso del bot podría resultar en la `prohibición` de tu cuenta de `WhatsApp`. (Aunque tu cuenta de WhatsApp solo puede ser desbloqueada una vez).
-- No soy responsable de la prohibición de tu cuenta.
-- Úsalo bajo tu propio riesgo teniendo en cuenta esta advertencia.
-- No está en venta
-- No olvides dar créditos si estás usando o volviendo a cargar mis plugins/archivos.
-- Que tengas un buen día por delante
  
