@@ -172,6 +172,16 @@ npm start
 - [x] Gemini
 - [x] idioma (español, portugués, inglés, etc) 
  
+## 🌌The MDLG-Team OFC Channel🌌
+
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VadwYAfBvvsbqX5VVt3m">
+    <img src="https://qu.ax/NrOC.jpg" alt="Página Web de Soporte" width="400">
+  </a>
+</div>
+
+- Dale una estrella ⭐ al repositorio si te gusta Ryō YamadaBot-MD.
+
 ## 🎸 PAGINA WEB PRESIONA LA IMAGEN
 
 <div align="center">
