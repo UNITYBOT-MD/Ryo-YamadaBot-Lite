@@ -172,7 +172,7 @@ npm start
 - [x] Gemini
 - [x] idioma (español, portugués, inglés, etc) 
  
-## 🌌The MDLG-Team OFC Channel🌌
+## 🌌 The MDLG-Team OFC Channel 🌌(click en la imagen)
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VadwYAfBvvsbqX5VVt3m">
@@ -180,7 +180,7 @@ npm start
   </a>
 </div>
 
-- Dale una estrella ⭐ al repositorio si te gusta Ryō YamadaBot-MD.
+- Síguenos si te gustó el bot The CosmicBot-MD.
 
 ## 🎸 PAGINA WEB PRESIONA LA IMAGEN
 
