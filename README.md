@@ -1,4 +1,7 @@
 
+
+## **<a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=EFFF00&center=true&repeat=false&width=435&lines=HOLA+%F0%9F%91%8B+" alt="Typing SVG" /></a>**
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1009&color=0000FF&lines=Bienvenido+al+Repositorio+oficial;Ryō+-+Yamada+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+LC+Novikov;Danos+una+estrellita+UWUW;🥵)](https://git.io/typing-svg)
 
 > <b> 🚀Version actual del bot: 2.0 (beta) </b>
