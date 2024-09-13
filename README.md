@@ -180,7 +180,7 @@ npm start
   </a>
 </div>
 
-- Síguenos si te gustó The CosmicBot-MD.
+- Síguenos si te gustó The Cosmic Bot-MD.
 
 ## 🎸 PAGINA WEB PRESIONA LA IMAGEN
 
