@@ -176,7 +176,7 @@ npm start
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VadwYAfBvvsbqX5VVt3m">
-    <img src="https://qu.ax/NrOC.jpg" alt="Página Web de Soporte" width="400">
+    <img src="https://qu.ax/zXtW.jpg" alt="Página Web de Soporte" width="400">
   </a>
 </div>
 
