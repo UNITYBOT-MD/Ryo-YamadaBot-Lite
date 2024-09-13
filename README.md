@@ -201,7 +201,7 @@ npm start
 <div><button id="boton" type="button">CREADOR - Muhammed bkmål Død</button></div>
 <a href="https://github.com/UNITYBOT-MD"><img src="https://github.com/UNITYBOT-MD.png" width="150" height="150" alt="adiwajshing"/></a>
 
-<a href="https://github.com/UNITYBOT-MD"><img src="https://qu.ax/yatc.jpg" alt="M̷u̷h̷a̷m̷m̷e̷d̷ b̷k̷m̷å̷l̷ D̷ø̷d̷"/></a>
+<a href="https://github.com/UNITYBOT-MD"><img src="https://qu.ax/zXtW.jpg" alt="M̷u̷h̷a̷m̷m̷e̷d̷ b̷k̷m̷å̷l̷ D̷ø̷d̷"/></a>
 
 `© R̷y̷o̷ Y̷a̷m̷a̷d̷a̷B̷o̷t̷-̷M̷D̷ - By L̷c̷ N̷o̷v̷i̷k̷o̷v̷`
 
