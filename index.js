@@ -9,7 +9,7 @@ const Readline = require('readline')
 const yargs = require('yargs/yargs')
 const rl = Readline.createInterface(process.stdin, process.stdout)
 
-CFonts.say('BKMÅL - AI', {
+CFonts.say('Ryō YamadaBot - Lite', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
