@@ -13,11 +13,11 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
  global.owner = [ 
- ["584125778026", "Owner", true], 
- ["5492266613038"],
- ["5217779091180"],
- ["50375961083"],
- ["50246028932"]
+ ["5217204153740", "Bkmål Død", true], 
+ ["51943058441", "L̷c̷ N̷o̷v̷i̷k̷o̷v̷", true],
+ [""],
+ [""],
+ [""]
  ] 
 
 global.mods = []
