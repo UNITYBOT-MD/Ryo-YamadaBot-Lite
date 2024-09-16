@@ -17,7 +17,7 @@ Gracias por usar nuestro Bot. Si deseas pedir otro código QR, borra la carpeta 
 - Los números del bot oficial son:
 https://wa.me/51943058441
 - Sencillo Bot creado por Muhammed bkmål Død.
-**-RYŌ YAMADABOT-LITE CREATE BY LC NOVIKOV**
+**RYŌ YAMADABOT-LITE CREATE BY LC NOVIKOV**
 ### Grupo oficial
 Únete al grupo oficial para obtener ayuda:
 https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg
