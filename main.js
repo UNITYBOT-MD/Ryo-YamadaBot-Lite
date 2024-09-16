@@ -1,5 +1,5 @@
 [require('./config')
-const { useSingleFileAuthState, DisconnectReason, msgRetryCounterMap } = require('@adiwajshing/baileys')
+[const { useSingleFileAuthState, DisconnectReason, msgRetryCounterMap } = require('@adiwajshing/baileys')
 const WebSocket = require('ws')
 const ws = require('ws')
 const { CONNECTING } = ws
