@@ -24,9 +24,9 @@ global.mods = []
 global.premium = []  
 global.blockList = []  
 
- global.botname = "SHADOW-乃ㄖㄒ-爪ᗪ+" 
- global.wm = 'SHADOW-🅑︎🅞︎🅣︎+' 
- global.vs = '1.0.0' 
+ global.botname = "𝐑𝐲𝐨̄ 𝐘𝐚𝐦𝐚𝐝𝐚𝐁𝐨𝐭-𝐋𝐢𝐭𝐞" 
+ global.wm = 'BKMÅL-🅑︎🅞︎🅣︎+' 
+ global.vs = '2.0.0' 
  global.place = 'America/Bogota' // Aquí puede encontrar su ubicación https://momentjs.com/timezone/ 
 global.baileys = baileys
 global.axios = axios
@@ -49,8 +49,8 @@ global.query = imagen1
  global.imagen2 = fs.readFileSync('./media/menu2.jpg') 
  global.imagen3 = fs.readFileSync('./media/menu3.jpg') 
  global.noperfil = fs.readFileSync('./media/sinfoto.jpg') 
- global.md = 'https://github.com/DIEGO-OFC' 
- global.yt = 'https://www.youtube.com/@diegogameplays82' 
+ global.md = 'https://github.com/UNITYBOT-MD' 
+ global.yt = 'https://www.youtube.com/@xone_by_unity' 
  global.nn = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //Update  
  global.nnn = 'https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg' 
  global.nna2 = 'https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg' 
@@ -289,8 +289,8 @@ global.query = imagen1
        "VN", 
        "VG", "VI", "WF", "EH",  "YE", "ZM", "ZW"]; 
 global.ctpro = ctxd;
- global.packname = "Shadow 乃ㄖㄒ 爪ᗪ+" 
- global.author = "By Diego-OFC" 
+ global.packname = "Ryō YamadaBot-Lite" 
+ global.author = "By LC Noviko¦Bkmål DØD" 
 
  global.info = { 
  wait: '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*',  
@@ -299,40 +299,40 @@ global.ctpro = ctxd;
  waitttt: '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*',  
  waittttt: '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▬*',  
  result: '*✅ Listo*', 
- rowner: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝙴𝙻/𝙻𝙰 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾/𝙰 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
-     owner: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝙴𝙻/𝙻𝙰 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾/𝙰 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
-     mods: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝙼𝙾𝙳𝙴𝚁𝙰𝙳𝙾𝚁𝙴𝚂 𝚈 𝙴𝙻/𝙻𝙰 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾/𝙰 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
-     premium: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂 𝙿𝚁𝙴𝙼𝙸𝚄𝙼 𝚈 𝙴𝙻/𝙻𝙰 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾/𝙰 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
-     group: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙴𝙽 𝙶𝚁𝚄𝙿𝙾𝚂*", 
-     private: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙴𝙽 𝙲𝙷𝙰𝚃 𝙿𝚁𝙸𝚅𝙰𝙳𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
-     admin: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝙰𝙳𝙼𝙸𝙽𝚂 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾*", 
-     botAdmin: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙿𝙰𝚁𝙰 𝙿𝙾𝙳𝙴𝚁 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙴𝚂 𝙽𝙴𝙲𝙴𝚂𝙰𝚁𝙸𝙾 𝚀𝚄𝙴 𝙴𝙻 𝙱𝙾𝚃 𝚂𝙴𝙰 𝙰𝙳𝙼𝙸𝙽, 𝙰𝙲𝙴𝙽𝙳𝙴𝚁 𝙰 𝙰𝙳𝙼𝙸𝙽 𝙴𝚂𝚃𝙴 𝙽𝚄𝙼𝙴𝚁𝙾*", 
-     unreg: "*[ ❎ 𝐇𝐄𝐘!! 𝐀𝐋𝐓𝐎, 𝐍𝐎 𝐄𝐒𝐓𝐀𝐒 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐀𝐃𝐎 ❎ ]*\n\n*—◉ 𝙿𝙰𝚁𝙰 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙳𝙴𝙱𝙴𝚂 𝚁𝙴𝙶𝙸𝚂𝚃𝚁𝙰𝚁𝚃𝙴, 𝚄𝚂𝙰 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾*\n*➣ #reg*",      
- limit: '*1 𝙳𝙸𝙰𝙼𝙰𝙽𝚃𝙴 💎 𝚄𝚂𝙰𝙽𝙳𝙾𝚂*',  
+ rowner: "*[ ⚠️ 𝐀𝐕𝐈𝐒𝐎 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝙴𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
+     owner: "*[ ⚠️ 𝐀𝐕𝐈𝐒𝐎 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝙴𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
+     mods: "*[ ⚠️ 𝐀𝐕𝐈𝐒𝐎 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝙼𝙾𝙳𝙴𝚁𝙰𝙳𝙾𝚁𝙴𝚂 𝚈 𝙴𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
+     premium: "*[ ⚠️ 𝐀𝐕𝐈𝐒𝐎 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂 𝙿𝚁𝙴𝙼𝙸𝚄𝙼 𝚈 𝙴𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
+     group: "*[ ⚠️ 𝐀𝐕𝐈𝐒𝐎 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙴𝙽 𝙶𝚁𝚄𝙿𝙾𝚂*", 
+     private: "*[ ⚠️ 𝐀𝐕𝐈𝐒𝐎 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙴𝙽 𝙲𝙷𝙰𝚃 𝙿𝚁𝙸𝚅𝙰𝙳𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
+     admin: "*[ ⚠️ 𝐀𝐕𝐈𝐒𝐎 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙿𝚄𝙴𝙳𝙴 𝚂𝙴𝚁 𝚄𝚃𝙸𝙻𝙸𝚉𝙰𝙳𝙾 𝙿𝙾𝚁 𝙰𝙳𝙼𝙸𝙽𝚂 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾*", 
+     botAdmin: "*[ ⚠️ 𝐀𝐕𝐈𝐒𝐎 ⚠️ ] 𝙿𝙰𝚁𝙰 𝙿𝙾𝙳𝙴𝚁 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙴𝚂 𝙽𝙴𝙲𝙴𝚂𝙰𝚁𝙸𝙾 𝚀𝚄𝙴 𝙴𝙻 𝙱𝙾𝚃 𝚂𝙴𝙰 𝙰𝙳𝙼𝙸𝙽*", 
+     unreg: "*[ 😆 𝐇𝐄𝐘!! 𝐍𝐎 𝐄𝐒𝐓𝐀𝐒 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐀𝐃𝐎 ]*\n\n*—◉ 𝙿𝙰𝚁𝙰 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙳𝙴𝙱𝙴𝚂 𝚁𝙴𝙶𝙸𝚂𝚃𝚁𝙰𝚁𝚃𝙴, 𝚄𝚂𝙰 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾*\n*➣ #reg*",      
+ limit: '*1 𝙳𝙸𝙰𝙼𝙰𝙽𝚃𝙴 𝚄𝚂𝙰𝙽𝙳𝙾*',  
  dolares5: '*5 𝙳𝙾𝙻𝙰𝚁𝙴𝚂 𝚄𝚂𝙰𝙳𝙾𝚂*',
  AntiNsfw: `*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 +𝟷𝟾 𝙴𝚂𝚃𝙰𝙽 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾𝚂 𝙴𝙽 𝙴𝚂𝚃𝙴 𝙶𝚁𝚄𝙿𝙾, 𝚂𝙸 𝙴𝚂 𝙰𝙳𝙼𝙸𝙽 𝚈 𝙳𝙴𝚂𝙴𝙰 𝙰𝙲𝚃𝙸𝚅𝙰𝚁𝙻𝙾𝚂 𝚄𝚂𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾:* #antiNsfs on`,  
- endLimit: 'Uff estas pobres no tienes mas 💎', 
+ endLimit: 'Uff estas pobre no tienes m𝚊́s 💎', 
 sindolares: 'Estas pobre, no tienes dolares XD',
-restrict: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙴𝚂𝚃𝙰 𝚁𝙴𝚂𝚃𝚁𝙸𝙽𝙶𝙸𝙳𝙾/𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾 𝙿𝙾𝚁 𝙳𝙴𝚂𝙸𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾/𝙰 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
+restrict: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙴𝚂𝚃𝙰 𝚁𝙴𝚂𝚃𝚁𝙸𝙽𝙶𝙸𝙳𝙾/𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾 𝙿𝙾𝚁 𝙳𝙴𝚂𝙸𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*", 
  } 
   global.rpg = {   
      emoticon(string) {   
        string = string.toLowerCase();   
        let emot = {   
-         tarjeta: "💳 Banesco",   
-         level: "🧬 Nivel",   
+         tarjeta: "💳 crédito",   
+         level: "📊 Nivel",   
          limit: "💎 Diamante",   
-         bitcoins: "🏵️ BitCoins",   
+         bitcoins: "🪙𝙽𝚢𝚊Coins",   
          dolares: "💵 Dolares",   
-         exp: "⚡ Experiencia",   
+         exp: "✨ Experiencia",   
          bank: "🏦 Banco",   
          diamond: "💎 Diamante",   
          health: "❤️ Salud",   
          kyubi: "🌀 Magia",   
          joincount: "☯️ Token",   
          emerald: "💚 Esmeralda",   
-         stamina: "✨ Energía",   
-         role: "💪 Rango",   
+         stamina: "⚡ Energía",   
+         role: "🛠️ Rango",   
          premium: "🎟️ Premium",   
          pointxp: "📧 Puntos Exp",   
          gold: "👑 Oro",   
@@ -418,20 +418,20 @@ restrict: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾
      emoticon(string) {   
        string = string.toLowerCase();   
        let emott = {   
-         tarjeta: "💳 Banesco",   
-         level: "🧬",   
+         tarjeta: "💳 crédito",   
+         level: "📊",   
          limit: "💎",   
-         bitcoins: "🏵️",   
+         bitcoins: "🪙",   
          dolares: "💵 Dolares",   
-         exp: "⚡",   
+         exp: "✨",   
          bank: "🏦",   
          diamond: "💎+",   
          health: "❤️",   
          kyubi: "🌀",   
          joincount: "☯️",   
          emerald: "💚",   
-         stamina: "✨",   
-         role: "💪",   
+         stamina: "⚡",   
+         role: "🛠️",   
          premium: "🎟️",   
          pointxp: "📧",   
          gold: "👑",   
@@ -517,10 +517,10 @@ restrict: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾
      emoticon(string) {   
        string = string.toLowerCase();   
        let emottt = {   
-         tarjeta: "💳 Banesco",   
-         exp: "⚡ Experiencia",   
+         tarjeta: "💳 créditos",   
+         exp: "✨ Experiencia",   
          limit: "💎 Diamante",   
-         bitcoins: "🏵️ BitCoins",   
+         bitcoins: "🪙 NyaCoins",   
          dolares: "💵 Dolares",   
          diamond: "💎 Diamante",   
          joincount: "☯️ Token",   
@@ -601,10 +601,10 @@ restrict: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾
        string = string.toLowerCase();   
        let emotttt = {   
          tarjeta: "💳",   
-         exp: "⚡",   
+         exp: "✨",   
          limit: "💎",   
          diamond: "💎+",   
-         bitcoins: "🏵️",   
+         bitcoins: "🪙",   
          dolares: "💵",   
          joincount: "☯️",   
          emerald: "💚",   
@@ -678,11 +678,11 @@ restrict: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾
        else return emotttt[results[0][0]];   
      },   
    };  
-  global.multiplier = 999; // Cuanto más alto, más difícil subir de nivel | The higher, The harder levelup 
+  global.multiplier = 999; // Cuanto más alto, más difícil  subir de nivel | The higher, The harder levelup 
  global.work = [  
-    "Trabajas como cortador de galletas y ganas",  
-    "Trabaja para una empresa militar privada, ganando",  
-    "Trabajas con dorrat bot y obtienes",  
+    "Trabajas como desarrollador de unity y ganas",  
+    "Trabaja para una asociación privada y ganas",  
+    "Trabajas con LC Novikov y obtienes",  
     "Te secuestran y te llevan a un coliseo subterráneo donde luchaste contra monstruos con personas que nunca antes habías conocido. Ganas",  
     "Limpias la chimenea y encuentras",  
     "Desarrollas juegos para ganarte la vida y ganas",  
@@ -699,16 +699,16 @@ restrict: "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾
     "Desarrollas juegos para ganarte la vida y ganas",  
     "Ganas un concurso de comer chili picante. ¡El premio es",  
     "Trabajas todo el día en la empresa por",  
-    "Ayudas a moderar el grupo de Dorrat por",  
-    "Diseñaste un logo para *FG* por",  
-    "Moderaste el grupo cuando *DIEGO-OFC* no estaba, el pago fue",  
+    "Ayudas a moderar el grupo de LC Novikov por",  
+    "Diseñaste un logo para *MDLG* por",  
+    "Moderaste el grupo cuando *LC Novikov* no estaba, el pago fue",  
     "¡Trabajó lo mejor que pudo en una imprenta que estaba contratando y ganó su bien merecido!",  
-    "Trabajas como podador de arbustos para *Diego-ofc* y ganas",  
+    "Trabajas como podador de arbustos para *Bkmål DØD* y ganas",  
     "La demanda de juegos para dispositivos móviles ha aumentado, por lo que creas un nuevo juego lleno de micro-transacciones. Con tu nuevo juego ganas un total de",  
     "Trabajas como actor de voz para Bob Esponja y te las arreglaste para ganar",  
     "Estabas cultivando y Ganaste",  
     "Trabajas como constructor de castillos de arena y ganas",  
-    "Se la chupaste a viruzz, y ganaste",  
+    "Se la chupaste a aware, y ganaste",  
     "Trabajas como artista callejera y ganas",  
     "¡Hiciste trabajo social por una buena causa! por tu buena causa Recibiste",  
     "Llevas mujeres a la tienda por",  
