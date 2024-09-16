@@ -1,7 +1,8 @@
 # 𝐓𝐇𝐄 𝐋𝐄𝐆𝐈𝐀𝐎 𝐃𝐎 𝐊𝐄𝐑𝐋𝐒𝐄𝐍
 # ꒷︶꒷꒥꒷‧₊˚૮꒰˵•ᵜ•˵꒱ა‧₊˚꒷︶꒷꒥꒷
 
-Gracias por usar el bot. Si deseas volver a escanear el código QR, borra la carpeta ShadowSession o reinicia el bot con el comando "restart" o "start".
+[atentamente: Bkmål DØD] 
+Gracias por usar nuestro Bot. Si deseas volver a escanear el código QR, borra la carpeta ShadowSession o reinicia el bot con el comando "restart" o "start".
 
 - Número del bot oficial: +573042496565
 - Si deseas cambiar los números owners, ve a configuracion.js
