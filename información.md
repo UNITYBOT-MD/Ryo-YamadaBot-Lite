@@ -3,21 +3,21 @@
 
 [atentamente: Bkmål DØD] 
 
-Gracias por usar nuestro Bot. Si deseas volver a escanear el código QR, borra la carpeta ShadowSession o reinicia el bot con el comando "restart" o "start".
+Gracias por usar nuestro Bot. Si deseas pedir otro código QR, borra la carpeta BkmålSession o reinicia el bot con el comando "restart" o "start".
 
-- Número del bot oficial: +573042496565
-- Si deseas cambiar los números owners, ve a configuracion.js
-- Creador: DIEGO-OFC número: +528442286089
-- Si tienes errores en la consola, repórtalos al número +528442286089
-- Puedes editar el bot como desees.
+- Número del bot oficial: +51943058441
+- Si deseas cambiar los números de los owners, ve a configuracion.js
+- Propietario: Lc Novikov número: +527204153740
+- Si tienes errores en la consola, repórtalos al número +527204153740
+- Puedes editar el bot como usted desee.
 - Host recomendados: dashboard.infinitywa.xyz o Termux.
 - Si necesitas ayuda o soporte, únete al grupo oficial o escribe al número del creador.
-- En este GitHub siempre tendrás actualizaciones.
+- En este GitHub siempre tendrás nuevas actualizaciones.
 - No me hago responsable del mal uso que puedas darle al bot.
 - Los números del bot oficial son:
-https://wa.me/573042496565
-- Bot creado para la diversión de los usuarios.
-**SHADOW-BOT-MD CREATE BY DIEGO-OFC**
+https://wa.me/51943058441
+- Sencillo Bot creado por Muhammed bkmål Død.
+**-RYŌ YAMADABOT-LITE CREATE BY LC NOVIKOV**
 ### Grupo oficial
 Únete al grupo oficial para obtener ayuda:
 https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg
@@ -37,8 +37,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn
-git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-cd DORRAT-TERMUX 
+git clone https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite
+cd BKMÅL-TERMUX 
 npm install 
 yarn install 
 npm install
