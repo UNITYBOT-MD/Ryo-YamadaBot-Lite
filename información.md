@@ -2,6 +2,7 @@
 # ꒷︶꒷꒥꒷‧₊˚૮꒰˵•ᵜ•˵꒱ა‧₊˚꒷︶꒷꒥꒷
 
 [atentamente: Bkmål DØD] 
+
 Gracias por usar nuestro Bot. Si deseas volver a escanear el código QR, borra la carpeta ShadowSession o reinicia el bot con el comando "restart" o "start".
 
 - Número del bot oficial: +573042496565
