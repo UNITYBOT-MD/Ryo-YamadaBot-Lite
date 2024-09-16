@@ -1,5 +1,5 @@
 # 𝐓𝐇𝐄 𝐋𝐄𝐆𝐈𝐀𝐎 𝐃𝐎 𝐊𝐄𝐑𝐋𝐒𝐄𝐍
-  ꒷︶꒷꒥꒷‧₊˚૮꒰˵•ᵜ•˵꒱ა‧₊˚꒷︶꒷꒥꒷
+# ꒷︶꒷꒥꒷‧₊˚૮꒰˵•ᵜ•˵꒱ა‧₊˚꒷︶꒷꒥꒷
 
 Gracias por usar el bot. Si deseas volver a escanear el código QR, borra la carpeta ShadowSession o reinicia el bot con el comando "restart" o "start".
 
