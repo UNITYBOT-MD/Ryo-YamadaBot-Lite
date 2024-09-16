@@ -37,8 +37,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn
-git clone https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite
-cd BKMÅL-TERMUX 
+git clone https://github.com/UNITYBOT-MD/Ryo-YamadaBot-Lite.git
+cd Ryō YamadaBot-Md
 npm install 
 yarn install 
 npm install
