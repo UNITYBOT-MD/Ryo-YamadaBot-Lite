@@ -20,7 +20,7 @@ https://wa.me/51943058441
 **RYŌ YAMADABOT-LITE CREATE BY LC NOVIKOV**
 ### Grupo oficial
 Únete al grupo oficial para obtener ayuda:
-https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg
+https://chat.whatsapp.com/BXzU5aUh2dt6i8TIkpjl8H 
 
 Gracias por leer.
 
